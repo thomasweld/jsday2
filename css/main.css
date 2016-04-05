@@ -1,3 +1,32 @@
 body {
-  background-color: #e1e8f0;
+  background-color: #6ed3cf;
+  color: #FFFFFF;
+  font-family: 'Play', sans-serif;
+  text-align: center;
+  font-size: 22px;
+}
+
+button {
+  border: 1px solid #9068be;
+  border-radius: 2px;
+}
+
+#calculate-button {
+  background-color: #e62739;
+  margin: 10px;
+  font-family: 'Play', sans-serif;
+  font-size: 22px;
+  padding: 4px;
+  color: #FFFFFF;
+}
+
+input {
+  color: #9068be;
+  font-size: 22px;
+}
+
+.answer {
+  color: #9068be;
+  font-size: 22px;
+  font-weight: bold;
 }
